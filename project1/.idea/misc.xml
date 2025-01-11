@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../project2/pom.xml" />
+        <option value="$PROJECT_DIR$/../project3/pom.xml" />
+        <option value="$PROJECT_DIR$/../project4/pom.xml" />
+        <option value="$PROJECT_DIR$/../project5/pom.xml" />
+        <option value="$PROJECT_DIR$/../project6/pom.xml" />
+        <option value="$PROJECT_DIR$/../project7/pom.xml" />
+        <option value="$PROJECT_DIR$/../project8/pom.xml" />
+        <option value="$PROJECT_DIR$/../project9/pom.xml" />
+        <option value="$PROJECT_DIR$/../project10/pom.xml" />
+        <option value="$PROJECT_DIR$/../project11/pom.xml" />
+        <option value="$PROJECT_DIR$/../project12/pom.xml" />
+        <option value="$PROJECT_DIR$/../project13/pom.xml" />
+        <option value="$PROJECT_DIR$/../Singleton_Scope/pom.xml" />
+        <option value="$PROJECT_DIR$/../Singleton_Scope_Lazy_Instatntiation/pom.xml" />
+        <option value="$PROJECT_DIR$/../Prototype_Scope/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
