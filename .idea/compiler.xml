@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="project2" />
+        <module name="project1" />
+        <module name="project4" />
+        <module name="project3" />
+        <module name="project6" />
+        <module name="project5" />
+        <module name="Singleton_Scope" />
+        <module name="project7" />
+        <module name="project10" />
+        <module name="project12" />
+        <module name="Prototype_Scope" />
+        <module name="project9" />
+        <module name="Singleton_Scope_Lazy_Instatntiation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
